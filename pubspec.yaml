@@ -1,0 +1,16 @@
+name: flutter_project_professora
+description: Projeto solicitado pela professora, com Android V2 embedding.
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
